@@ -8,3 +8,5 @@ class CalculatingTestCase(unittest.TestCase):
         self.assertEqual(four(plus(nine())), 13)
         self.assertEqual(eight(minus(three())), 5)
         self.assertEqual(six(divided_by(two())), 3)
+        self.assertEqual(four(divided_by(three())), 1)
+        self.assertEqual(five(divided_by(two())), 2)
