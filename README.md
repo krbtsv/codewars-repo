@@ -1,7 +1,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)]()
 # Codewars - Python Solutions
 ___
-Follow [me](https://www.codewars.com/users/krbtsv) and let's fight together! :facepunch: :collision:
+Follow [me](https://www.codewars.com/users/krbtsv) and let's fight together! :facepunch: :collision:  
 ![my rank](https://www.codewars.com/users/krbtsv/badges/large)
 ### Structure
 For each solved task, there is unittests files
