@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# JS extensions
+node_modules
+yarn.lock
+yarn-error.logs
+package-lock.json
+
 # Distribution / packaging
 .Python
 build/
