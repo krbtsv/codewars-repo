@@ -1,0 +1,23 @@
+{
+  "name": "codewars-repo",
+  "version": "1.0.0",
+  "description": "___ Follow [me](https://www.codewars.com/users/krbtsv) and let's fight together! :facepunch: :collision:   ![my rank](https://www.codewars.com/users/krbtsv/badges/large)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krbtsv/codewars-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krbtsv/codewars-repo/issues"
+  },
+  "homepage": "https://github.com/krbtsv/codewars-repo#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
