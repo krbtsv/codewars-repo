@@ -1,6 +1,4 @@
-[![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)]()
-
-# Codewars - Python&JS Solutions
+# Codewars - Python&JavaScript Solutions
 
 ___
 Follow [me](https://www.codewars.com/users/krbtsv) and let's fight together! :facepunch: :collision:  
