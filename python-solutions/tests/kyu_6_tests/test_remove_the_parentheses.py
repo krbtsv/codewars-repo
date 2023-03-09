@@ -1,7 +1,8 @@
 import unittest
 
-from katas.kyu_6.remove_the_parentheses import remove_parentheses, remove_parentheses_second_solution, \
-    remove_parentheses_third_solution
+from katas.kyu_6.remove_the_parentheses import (
+    remove_parentheses, remove_parentheses_second_solution,
+    remove_parentheses_third_solution)
 
 
 class RemoveParenthesesTestCase(unittest.TestCase):
