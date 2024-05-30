@@ -1,4 +1,4 @@
-# Codewars - Python&JavaScript Solutions
+# Codewars - Solutions
 
 ___
 Follow [me](https://www.codewars.com/users/krbtsv) and let's fight together! :facepunch: :collision:  
