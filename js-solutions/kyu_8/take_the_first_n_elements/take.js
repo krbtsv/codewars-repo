@@ -8,4 +8,4 @@ function take(arr, num) {
     return firstNumElementsOfArr;
 }
 
-console.log(take([1,2,3,4,5], 3));
+module.exports = take;
