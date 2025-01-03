@@ -23,18 +23,18 @@ For each solved task, there is unittests files
 
 ```
 ├── kyu_8
-│──├── hello_world
-│──│──├── hello_world.js
-      ├── hello_world.test.js
+    ├── hello_world
+        ├── hello_world.js
+        ├── hello_world.test.js
 ```
 
 **go-solutions**
 
 ```
 ├── kyu_8
-│──├── hello_world
-│──│──├── src
-│──│──├──├── go.mod
-│──│──├──├── hello_world.go
-      ├──├── hello_world_test.go
+    ├── hello_world
+        ├── src
+            ├── go.mod
+            ├── hello_world.go
+            ├── hello_world_test.go
 ```
