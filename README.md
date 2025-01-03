@@ -28,3 +28,12 @@ For each solved task, there is unittests files
       ├── hello_world.test.js
 ```
 
+**go-solutions**
+
+```
+├── kyu_8
+│──├── hello_world
+│──│──├── go.mod
+│──│──├── hello_world.go
+      ├── hello_world_test.go
+```
