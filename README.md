@@ -33,7 +33,8 @@ For each solved task, there is unittests files
 ```
 ├── kyu_8
 │──├── hello_world
-│──│──├── go.mod
-│──│──├── hello_world.go
-      ├── hello_world_test.go
+│──│──├── src
+│──│──├──├── go.mod
+│──│──├──├── hello_world.go
+      ├──├── hello_world_test.go
 ```
